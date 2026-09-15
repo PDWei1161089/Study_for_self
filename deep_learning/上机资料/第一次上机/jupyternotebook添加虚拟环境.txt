@@ -1,0 +1,14 @@
+环境名称以test为例，python版本以3.7为例
+1.创建虚拟环境
+conda create -n test python=3.7
+
+2.激活虚拟环境
+conda activate test
+
+3.在虚拟环境中下载kernel
+pip install --user ipykernel
+
+4.将环境添加到jupyter notebook中
+python -m ipykernel install --user --name=test
+
+

@@ -1,0 +1,11 @@
+annaconda 下载地址
+
+0.最新版本官网下载：
+https://www.anaconda.com/download
+
+1、anaconda 历史版本下载地址：
+首推清华镜像，特别是公司内部网络有代理设置的。
+
+清华镜像（国内首选）： https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
+
+官网镜像：https://repo.continuum.io/archive/

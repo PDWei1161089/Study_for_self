@@ -1,0 +1,13 @@
+1.深度学习环境配置教程V1
+通过视频和文档介绍，让学生们了解深度学习环境搭建流程
+Windows系统下：Anaconda、PyCharm、CUDA、cuDNN、PyTorch
+
+2.Jupyter-Notebook常用功能、快速入门与常用用法
+了解如何使用Anaconda安装Jupyter notebook，
+使用Jupyter notebook编写代码或文档
+
+3.Python基础
+之前没有Python基础的同学作为快速入门使用，已学过Python的同学简单过一遍即可
+
+4.数据加工基础及数据可视化
+掌握Numpy、Pandas、Matplotlib、Senborn的操作，其中Numpy和Matplotlib要求重点掌握。
